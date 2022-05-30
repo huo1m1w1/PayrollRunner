@@ -1,0 +1,21 @@
+C:\Users\Michael White\Desktop\WorldQuant_C#\Projects\PRA_ModelAnswer\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.exe.config
+C:\Users\Michael White\Desktop\WorldQuant_C#\Projects\PRA_ModelAnswer\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.exe
+C:\Users\Michael White\Desktop\WorldQuant_C#\Projects\PRA_ModelAnswer\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.pdb
+C:\Users\Michael White\Desktop\WorldQuant_C#\Projects\PRA_ModelAnswer\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.csprojAssemblyReference.cache
+C:\Users\Michael White\Desktop\WorldQuant_C#\Projects\PRA_ModelAnswer\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.csproj.CoreCompileInputs.cache
+C:\Users\Michael White\Desktop\WorldQuant_C#\Projects\PRA_ModelAnswer\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.exe
+C:\Users\Michael White\Desktop\WorldQuant_C#\Projects\PRA_ModelAnswer\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.pdb
+C:\Users\DSN\Desktop\WQU\MScFE_Projects-master\MScFE 670_Task 2\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.exe.config
+C:\Users\DSN\Desktop\WQU\MScFE_Projects-master\MScFE 670_Task 2\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.exe
+C:\Users\DSN\Desktop\WQU\MScFE_Projects-master\MScFE 670_Task 2\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.pdb
+C:\Users\DSN\Desktop\WQU\MScFE_Projects-master\MScFE 670_Task 2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.csprojAssemblyReference.cache
+C:\Users\DSN\Desktop\WQU\MScFE_Projects-master\MScFE 670_Task 2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.csproj.CoreCompileInputs.cache
+C:\Users\DSN\Desktop\WQU\MScFE_Projects-master\MScFE 670_Task 2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.exe
+C:\Users\DSN\Desktop\WQU\MScFE_Projects-master\MScFE 670_Task 2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.pdb
+E:\Financial Engineering\Course 9 - Data Feeds and Technology\Week 2\crt2\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.exe.config
+E:\Financial Engineering\Course 9 - Data Feeds and Technology\Week 2\crt2\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.exe
+E:\Financial Engineering\Course 9 - Data Feeds and Technology\Week 2\crt2\PRA_ModelAnswer\bin\Debug\PRA_ModelAnswer.pdb
+E:\Financial Engineering\Course 9 - Data Feeds and Technology\Week 2\crt2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.csprojAssemblyReference.cache
+E:\Financial Engineering\Course 9 - Data Feeds and Technology\Week 2\crt2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.csproj.CoreCompileInputs.cache
+E:\Financial Engineering\Course 9 - Data Feeds and Technology\Week 2\crt2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.exe
+E:\Financial Engineering\Course 9 - Data Feeds and Technology\Week 2\crt2\PRA_ModelAnswer\obj\Debug\PRA_ModelAnswer.pdb
